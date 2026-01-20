@@ -1,5 +1,7 @@
 ## Hi there 👋 I’m Vamsi Nallamangala
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+
 - 🔭 I’m currently working on Data Structures & Algorithms and Backend Development                                                                     
 - 🌱 I’m currently learning Java, Spring Boot, and Problem Solving
 - 👯 I’m looking to collaborate on Java  projects and open-source contributions
