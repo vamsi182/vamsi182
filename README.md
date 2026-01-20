@@ -1,3 +1,5 @@
+![logo](https://github.com/vamsi182/vamsi182/blob/main/ChatGPT%20Image%20Jan%2020%2C%202026%2C%2003_38_47%20PM.png)
+
 <h1 align="center">  Hi 👋 I’m Vamsi Nallamangala </h1>
 
 
