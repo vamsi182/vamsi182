@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Vamsi Nallamangala
+## Hi 👋 I’m Vamsi Nallamangala
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
